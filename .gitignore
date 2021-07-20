@@ -37,3 +37,5 @@ utils/cefnetdstart
 utils/cefnetdstop
 utils/cefroute
 utils/cefstatus
+
+.DS_Store
